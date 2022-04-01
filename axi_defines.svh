@@ -1,0 +1,5 @@
+`ifndef PROJECT_UVM_DEFINES
+`define PROJECT_UVM_DEFINES
+
+
+`endif
